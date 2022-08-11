@@ -10,7 +10,7 @@ Welcome to the Boston Minecraft server. Here, you can find information about run
 
 ## See the game in action!
 
-[Developer's Playthrough](https://www.youtube.com/watch?v=mvZx6Q6UUJM&feature=youtu.be)
+[Developer's Playthrough](https://youtu.be/L28IDMt49CM)
 
 - Notes: the core games are included in this repository as-is, but some smaller aspects may have changed to adjust for bugs/narration purposes.
 
