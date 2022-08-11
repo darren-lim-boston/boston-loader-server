@@ -1,0 +1,12 @@
+cache/
+crash-reports/
+libraries/
+logs/
+versions/
+plugins/bStats/
+plugins/PluginMetrics/
+.console_history
+ops.json
+usercache.json
+plugins/bStats/
+plugins/PluginMetrics/
